@@ -2,6 +2,10 @@
 
 &nbsp;
 
+Download an Executable JAR: [carsoncraig.github.io/projects](http://carsoncraig.github.io/projects)
+
+&nbsp;
+
 F - Toggle Fullscreen Mode
 
 &nbsp;
