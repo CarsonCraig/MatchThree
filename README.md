@@ -1,4 +1,4 @@
-# Match Three Controls:
+# Match-Three Controls:
 
 &nbsp;
 
