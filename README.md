@@ -8,6 +8,7 @@ Download an Executable JAR: [carsoncraig.github.io/projects](http://carsoncraig.
 
 Switch jewels by selecting a jewel with the left mouse button and dragging the mouse to an adjacent square such that a match is made.
 
+&nbsp;
 
 |Control|Purpose|
 |:-:|:-:|
