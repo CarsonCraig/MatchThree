@@ -1,10 +1,14 @@
-# Match-Three Controls:
+# Match-Three
+
+![screenshot](screenshot.jpg)
 
 &nbsp;
 
 Click [here](http://carsoncraig.me/jar/MatchThree.jar) to download an executable JAR.
 
 &nbsp;
+
+## Controls:
 
 Switch jewels by selecting a jewel with the left mouse button and dragging the mouse to an adjacent square such that a match is made.
 
