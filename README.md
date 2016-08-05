@@ -12,8 +12,6 @@ Click [here](http://carsoncraig.me/jar/MatchThree.jar) to download an executable
 
 Switch jewels by selecting a jewel with the left mouse button and dragging the mouse to an adjacent square such that a match is made.
 
-&nbsp;
-
 |Control|Purpose|
 |:-:|:-:|
 |F                         | Toggle Fullscreen Mode|
